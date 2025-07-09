@@ -47,3 +47,21 @@ OPENAI_API_KEY=your-openai-api-key-here
 
 4. Run the Notebook
 jupyter notebook
+
+🛡️ API Key Safety
+
+This project includes a .gitignore file that excludes your .env file, so your API key is never uploaded to GitHub.
+
+⸻
+
+📸 Example Output
+
+Paste or upload a screenshot of the notebook showing the website summary output.
+
+⸻
+
+🙋‍♀️ Author
+
+Sajida Memon
+Aspiring LLM Engineer | Python Learner | Building AI tools with OpenAI
+
